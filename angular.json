@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "chat-client"
+    }
+  },
+  "defaultProject": "chat-client",
+  "cli": {
+    "analytics": false
+  }
 }
